@@ -6,12 +6,10 @@
  * main - genarates random number
  *
  * return: always 0 (success)
- * 
+ *
  */
-
 int main(void)
 {
-
 	int n;
 
 	srand(time(0));
