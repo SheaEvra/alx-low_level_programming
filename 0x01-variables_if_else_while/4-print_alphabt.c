@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - returns aphabets both except e and q
@@ -10,7 +10,6 @@
 int main(void)
 {
 	char ch = 'a';
-
 	while (ch <= 'z')
 	{
 		if ((ch != 'e') && (ch != 'q'))
