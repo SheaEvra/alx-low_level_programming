@@ -3,11 +3,12 @@
 #include <time.h>
 
 /**
- * main - genarates random number
+ * main - main function to genarate a random number
  *
- * return: always 0 (success)
+ * Return: always 0 (success)
  *
  */
+
 int main(void)
 {
 	int n;
