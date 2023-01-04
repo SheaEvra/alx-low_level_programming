@@ -1,0 +1,2 @@
+1. function that prints a string, followed by a new line.
+2. 
