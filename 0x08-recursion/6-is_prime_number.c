@@ -29,7 +29,7 @@ int prime_number(int n, int i)
 		return (0);
 
 	if ((n / i) < i)
-		_putchar(1);
+		return (1);
 
 	return (prime_number(n, i + 1));
 }
